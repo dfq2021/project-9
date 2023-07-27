@@ -161,6 +161,6 @@ int addRoundKey(uint8_t(*state)[4], const uint32_t* key) {
 # 实验环境
 | 语言  | 系统      | 平台   | 处理器                     |
 |-------|-----------|--------|----------------------------|
-| Cpp   | Windows10 | pycharm| Intel(R) Core(TM)i7-11800H |
+| Cpp   | Windows10 | vs2022 | Intel(R) Core(TM)i7-11800H |
 # 小组分工
 戴方奇 202100460092 单人组完成project9
