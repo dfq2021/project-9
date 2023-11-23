@@ -389,9 +389,7 @@ int aesDecrypt(const uint8_t* key, uint32_t keyLen, const uint8_t* ct, uint8_t* 
     }
     return 0;
 }
-//
-// Created by Liming Shao on 2018/4/24.
-//
+
 
 int main() {
 
